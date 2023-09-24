@@ -61,3 +61,34 @@ Steps:
        Expected result:
         The image is opened in the right sidebar with refference to 'prowly.com' website.
 
+
+TCID - 13. User can find the 'Sign In'-page to prowly application using google's suggestions buttons.
+-----------------------------------------------------------------------------------------------------
+Steps:
+    1. Action:
+        Open the google.com in any browser;
+
+       Expected result:
+        The main google.com page is opened with the searcline at the centre of the page;
+
+
+    2. Action:
+        Enter the word "prowly" into the search line and click 'Enter' on the keyboard;
+
+       Expected result:
+        The search result page is uploaded on the screen. The Prowly website link is located at the top of search results.
+    
+
+    3. Action:    
+        Click at the 'App'-button under the search line at the top of the page;
+
+       Expected result:
+        The page is reloaded, search quiery is changed to 'Prowly app', search results amount number is decreased;
+
+    
+    4. Action:    
+        Click at the 'Login'-button under the search line at the top of the page;
+
+       Expected result:
+        The page is reloaded, search quiry is changed to 'Prowly app login', 'app.prowly.com' site is at the top of the list.
+
