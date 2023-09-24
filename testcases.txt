@@ -142,3 +142,56 @@ Steps:
 
        Expected result:
         Search results are reloaded, the 'How to Find Relevant Journalists...'-video is presented at the top of search results.
+
+
+TCID - 22. User can find '6 Reasons Why You Should Choose Prowly PR Software' article in google using date filters.
+--------------------------------------------------------------------------------------------------------------------
+Steps:
+    1. Action:
+        Open the google.com in any browser;
+
+       Expected result:
+        The main google.com page is opened with the searcline at the centre of the page;
+
+
+    2. Action:
+        Enter the word "prowly" into the search line and click 'Enter' on the keyboard;
+
+       Expected result:
+        The search result page is uploaded on the screen with 'prowly.com' at the top of results;
+
+
+    3. Action:
+        Click on the 'Tools'-button in the right corner of the page under the gear icon;
+
+       Expected result:
+        The additional panel with time filter appear under the button, the 'Tools'-button is in active state;
+
+
+    4. Action:
+        Click on the 'Any time'-dropdown and select 'Custom range'-option;
+
+       Expected result:
+        The 'Customised date range' pop-up appear over the page screen, the 'From' field is active;
+
+
+    5. Action:
+        Select the 4 August 2023 in the calendar next to the 'From'-field; 
+
+       Expected result:
+        The date is pasted into the field and the cursos is swiched to the 'To'-field below, the 'To'-field is active;
+
+
+    6. Action:
+        Select the 4 August 2023 in the calendar next to the 'To'-field;
+
+       Expected result:
+        The date is pasted into the field and the cursos stays in that field;
+
+
+    7. Action:
+        Click on 'Go'-button in the pop-up;
+
+       Expected result:
+        The page is reloaded, the '6 Reasons Why You Should Choose Prowly PR Software' article is at the top of search results.
+
