@@ -1,1 +1,31 @@
 Scenario A) Searching for "prowly" on google.com, filtering by content category (everything, video, news, etc.).
+
+TCID - 11. User can find 'Prowly Software Reviews, Demo & Pricing - 2023'-article using google category filters.
+----------------------------------------------------------------------------------------------------------------
+Steps:
+    1. Action:
+        Open the google.com in any browser;
+
+       Expected result:
+        The main google.com page is opened with the searcline at the centre of the page.
+
+
+    2. Action:
+        Enter the word "prowly" into the search line and click 'Enter' on the keyboard;
+
+       Expected result:
+        The search result page is uploaded on the screen. The Prowly website link is located at the top of search results.
+
+
+    3. Action:
+        Click at the 'Reviews'-button under the search line at the top of the page;
+
+       Expected result:
+        The page is reloaded, search quiery is replaced with 'Prowly reviews' text, 'Reviews'-button is in active state;
+
+
+    4. Action:
+        Click at the 'News'-button under the search line at the top of the page;
+
+       Expected result:
+        The page is reloaded, needed article is at the top of search results, 'News'-button is active, 'Reviews'-button is replaced with 'All'-button in inactive state;
