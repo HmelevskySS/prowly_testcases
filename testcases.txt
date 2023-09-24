@@ -96,4 +96,49 @@ Steps:
 ---------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------
 
+
 Scenario B) Searching for the word "prowly" on google.com with filtering by date.
+
+TCID - 21. User can see 'How to Find Relevant Journalists...'-video at the top of video search results using date filter.
+-------------------------------------------------------------------------------------------------------------------------
+Steps:
+    1. Action:
+        Open the google.com in any browser;
+
+       Expected result:
+        The main google.com page is opened with the searcline at the centre of the page;
+
+
+    2. Action:
+        Enter the word "prowly" into the search line and click 'Enter' on the keyboard;
+
+       Expected result:
+        The search result page is uploaded on the screen with 'prowly.com' at the top of results;
+
+
+    3. Action:
+        Click at the 'Videos'-button under the searchline; 
+
+       Expected result:
+        The page is reloaded, Video-button is in active state, the link 'prowly.com/media-database' is at the top of search results at the video-tab;
+
+
+    4. Action:
+        Click at the 'Tools'-button under the searchline on the right; 
+
+       Expected result:
+        The 'Tools'-button is in active state, the search filters line appear under the searchline;
+
+
+    5. Action:
+        Click at the 'Tools'-button under the searchline on the right; 
+
+       Expected result:
+        The 'Tools'-button is in active state, the search filters line appear under the searchline;
+
+
+    6. Action:
+        Click at the 'Any time'-dropdown in the 'Tools'-line and select 'Past year'-option; 
+
+       Expected result:
+        Search results are reloaded, the 'How to Find Relevant Journalists...'-video is presented at the top of search results.
