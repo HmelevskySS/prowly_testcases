@@ -1,0 +1,19 @@
+Thank you for openning this file!
+
+I created testcases, that help user to find some needed info on the Internet using the request 'prowly'.
+
+I relied on user actions within the browser. It means, that in almost all of this cases we can add the last step like:
+- Click at the first link on the search results list.
+
+I decided that this was not entirely relevant to the task.
+Please leave a feedback if you meant something like this.
+
+I also created a separate branch for scenario A, as well as another for scenario B.
+And separately in each branch I created other branches for each case. In my opinion, this allows you to track progress,
+as well as quickly find a particular case at the right time. Plus, it shows that GIT is a familiar tool to me :)
+
+Thank you for reading!
+
+Waiting forward to hearing from you!
+
+Sergey Hmelevsky
