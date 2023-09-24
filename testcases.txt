@@ -1,0 +1,1 @@
+Scenario A) Searching for "prowly" on google.com, filtering by content category (everything, video, news, etc.).
