@@ -195,3 +195,54 @@ Steps:
        Expected result:
         The page is reloaded, the '6 Reasons Why You Should Choose Prowly PR Software' article is at the top of search results.
 
+
+TCID - 23. User can find a 'dashboard with Media Monitoring statistics'-gif using google date and category filters.
+--------------------------------------------------------------------------------------------------------------------
+Steps:
+    1. Action:
+        Open the google.com in any browser;
+
+       Expected result:
+        The main google.com page is opened with the searcline at the centre of the page;
+
+
+    2. Action:
+        Enter the word "prowly" into the search line and click 'Enter' on the keyboard;
+
+       Expected result:
+        The search result page is uploaded on the screen with 'prowly.com' at the top of results;
+
+
+    3. Action:
+        Click on the 'Tools'-button in the right corner of the page under the gear icon;
+
+       Expected result:
+        The additional panel with time filter appear under the button, the 'Tools'-button is in active state;
+
+
+    4. Action:
+        Click on the 'Any time'-dropdown and select 'Past year'-option;
+
+       Expected result:
+        The page is reloaded, 'Any time'-naming is replaced with 'Past year';
+
+
+    5. Action:
+        Click at the 'Images'-button under the search line at the top of the page;
+
+       Expected result:
+        The search results page is updated with image search page;
+
+
+    6. Action:
+        Click at the 'Type'-dropdow next to the highlighted 'Past year'-dropdown in the additional tools panel and select 'GIF';
+
+       Expected result:
+        The page is reloaded, search results page is updated with .gif images;
+
+
+    7. Action:
+        Click at the first image on the page;
+
+       Expected result:
+        The needed image is opened in the right sidebar with refference to 'Prowly Help Centre', gif animation is working.
